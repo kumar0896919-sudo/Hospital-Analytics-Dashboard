@@ -4,6 +4,8 @@ I’m excited to share my **Hospital Analysis Dashboard**, an interactive **Powe
 
 This dashboard helps hospital management and stakeholders quickly understand important insights such as patient flow, doctor performance, hospital resources, and revenue trends.
 
+Project Link :-https://app.powerbi.com/view?r=eyJrIjoiODMwMzVkZDItYjM4NS00NGRkLWI2M2UtZWVmNjIyYzMxZTRhIiwidCI6IjNmYTRhNDhjLWRkODMtNDc1MS1iOWMxLWJiZmVkNmNiOTEzOSJ9
+
 🔹 **Overview Dashboard**
 Provides a complete snapshot of hospital performance including **total patients, bill count, doctor count, and staff count**. It also highlights **patient discharge trends, stock vs availability insights, and overall hospital activity**, helping management monitor performance at a glance.
 
